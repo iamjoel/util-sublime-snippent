@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<template>
+  <div class="main">
+  </div>
+</template>
+
+<script></script>
+
+<style></style>
+]]></content>
+  <tabTrigger>j-vue-template</tabTrigger>
+</snippet>

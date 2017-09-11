@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<snippet>
+  <content><![CDATA[
+${1}
+
+]\]></content>
+  <tabTrigger>${2}</tabTrigger>
+</snippet>
+
+]]></content>
+  <tabTrigger>j-create-snippet</tabTrigger>
+</snippet>

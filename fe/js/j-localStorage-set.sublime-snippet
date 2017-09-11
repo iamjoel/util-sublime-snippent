@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+localStorage.setItem(JSON.stringify(${1}))
+]]></content>
+  <tabTrigger>j-localStorage-set</tabTrigger>
+</snippet>
