@@ -2,7 +2,7 @@
   <content><![CDATA[
 
 import updateMixin from '@/mixin/update'
-require('./api/mock.js') // 测试数据
+// require('./api/mock.js') // 测试数据
 
 export default {
   mixins: [updateMixin],

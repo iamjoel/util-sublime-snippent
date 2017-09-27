@@ -2,7 +2,7 @@
   <content><![CDATA[
 import listMixin from '@/mixin/list'
 
-require('./api/mock.js') // 上线擅长
+// require('./api/mock.js') // 上线注释
 
 export default {
   mixins: [listMixin],
