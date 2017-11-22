@@ -1,13 +1,16 @@
 <snippet>
+  <tabTrigger>cs</tabTrigger>
+  <description>生成代码片段模板。记得删除 \] 前的 \</description>
   <content><![CDATA[
 <snippet>
+  <tabTrigger>${1}</tabTrigger>
+  <description>${2}</description>
+  <scope>${3}</scope>
   <content><![CDATA[
-${1}
+${4}
 
 ]\]></content>
-  <tabTrigger>${2}</tabTrigger>
 </snippet>
 
 ]]></content>
-  <tabTrigger>cs</tabTrigger>
 </snippet>

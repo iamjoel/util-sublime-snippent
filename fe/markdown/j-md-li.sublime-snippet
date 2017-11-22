@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-* [${1}](${2})
+* ${1}
 ]]></content>
-  <tabTrigger>mdla</tabTrigger>
+  <tabTrigger>mdl</tabTrigger>
   <scope>text.html.markdown</scope>
 </snippet>

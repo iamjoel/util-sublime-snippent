@@ -2,5 +2,5 @@
   <content><![CDATA[
 <img src="http://via.placeholder.com/${1:200}x${2:100}" alt=""/>
 ]]></content>
-  <tabTrigger>j-img-placeholder.sublime-snippet</tabTrigger>
+  <tabTrigger>imgp</tabTrigger>
 </snippet>

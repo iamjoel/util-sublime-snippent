@@ -1,4 +1,5 @@
 <snippet>
+  <tabTrigger>vuelt</tabTrigger>
   <content><![CDATA[
 import listMixin from '@/mixin/list'
 
@@ -23,5 +24,5 @@ export default {
 
 
 ]]></content>
-  <tabTrigger>j-vue-template</tabTrigger>
+  
 </snippet>

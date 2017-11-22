@@ -1,7 +1,7 @@
 <snippet>
   <tabTrigger>circle</tabTrigger>
   <description>圆</description>
-
+  <scope>css</scope>
   <content><![CDATA[
   width: ${1};
   height: ${1};

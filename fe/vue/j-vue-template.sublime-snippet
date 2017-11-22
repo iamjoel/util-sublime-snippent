@@ -18,7 +18,7 @@ export default {
 }
 </script>
 
-<style></style>
+<style scoped></style>
 ]]></content>
   <tabTrigger>j-vue-template</tabTrigger>
 </snippet>
